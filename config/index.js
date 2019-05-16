@@ -43,7 +43,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/Vue-final-homework/',
+    assetsPublicPath: '/Vue-final-homework/dist/',
 
     /**
      * Source Maps
