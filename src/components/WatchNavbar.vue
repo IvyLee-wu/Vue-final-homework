@@ -1,7 +1,7 @@
 <template>
   <div>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <router-link class="nav-link h3 color font-weight-bold" to="/watchindex">
+      <router-link class="nav-link h3 color font-weight-bold" to="/">
         <img src="../assets/clock.png" alt height="45">
         挖趣鐘錶店
       </router-link>
